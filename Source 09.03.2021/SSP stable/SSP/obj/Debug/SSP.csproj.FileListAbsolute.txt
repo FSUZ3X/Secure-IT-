@@ -1,0 +1,251 @@
+C:\Users\test1\Desktop\Super Secret Project\SSP\SSP\bin\Debug\SSP.exe
+C:\Users\test1\Desktop\Super Secret Project\SSP\SSP\bin\Debug\SSP.pdb
+C:\Users\test1\Desktop\Super Secret Project\SSP\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\test1\Desktop\Super Secret Project\SSP\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\test1\Desktop\Super Secret Project\SSP\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\test1\Desktop\Super Secret Project\SSP\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\test1\Desktop\Super Secret Project\SSP\SSP\obj\Debug\SSP.exe
+C:\Users\test1\Desktop\Super Secret Project\SSP\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP\SSP\bin\Debug\SSP.exe.config
+C:\Users\Дария\Desktop\SSP 02.03\SSP\bin\Debug\SSP.exe.config
+C:\Users\Дария\Desktop\SSP 02.03\SSP\bin\Debug\SSP.exe
+C:\Users\Дария\Desktop\SSP 02.03\SSP\bin\Debug\SSP.pdb
+C:\Users\Дария\Desktop\SSP 02.03\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\Дария\Desktop\SSP 02.03\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\Дария\Desktop\SSP 02.03\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\Дария\Desktop\SSP 02.03\SSP\obj\Debug\SSP.Security.resources
+C:\Users\Дария\Desktop\SSP 02.03\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\Дария\Desktop\SSP 02.03\SSP\obj\Debug\SSP.exe
+C:\Users\Дария\Desktop\SSP 02.03\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 03.11\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 03.11\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 03.11\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 03.11\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 03.11\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 03.11\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 03.11\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 03.11\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 03.11\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 03.11\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 03.11\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 04.11 stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 04.11 stable\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 04.11 stable\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 04.11 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 04.11 stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 04.11 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 04.11 stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 04.11 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 04.11 stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 04.11 stable\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 04.11 stable\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 05.11 stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 05.11 stable\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 05.11 stable\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 05.11 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 05.11 stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 05.11 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 05.11 stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 05.11 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 05.11 stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 05.11 stable\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 05.11 stable\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 05.11 stable\SSP\obj\Debug\SSP.LockScreen.resources
+C:\Users\ZerXPro\Desktop\SSP 09.11 stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 09.11 stable\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 09.11 stable\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 09.11 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 09.11 stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 09.11 stable\SSP\obj\Debug\SSP.LockScreen.resources
+C:\Users\ZerXPro\Desktop\SSP 09.11 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 09.11 stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 09.11 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 09.11 stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 09.11 stable\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 09.11 stable\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 12.11 non stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 12.11 non stable\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 12.11 non stable\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 12.11 non stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 12.11 non stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 12.11 non stable\SSP\obj\Debug\SSP.LockScreen.resources
+C:\Users\ZerXPro\Desktop\SSP 12.11 non stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 12.11 non stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 12.11 non stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 12.11 non stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 12.11 non stable\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 12.11 non stable\SSP\obj\Debug\SSP.pdb
+G:\SSP 12.11 non stable\SSP\bin\Debug\SSP.exe.config
+G:\SSP 12.11 non stable\SSP\obj\Debug\SSP.exe
+G:\SSP 12.11 non stable\SSP\obj\Debug\SSP.pdb
+G:\SSP 12.11 non stable\SSP\bin\Debug\SSP.exe
+G:\SSP 12.11 non stable\SSP\bin\Debug\SSP.pdb
+G:\SSP 12.11 non stable\SSP\obj\Debug\SSP.csprojResolveAssemblyReference.cache
+G:\SSP 12.11 non stable\SSP\obj\Debug\SSP.Form1.resources
+G:\SSP 12.11 non stable\SSP\obj\Debug\SSP.LockScreen.resources
+G:\SSP 12.11 non stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+G:\SSP 12.11 non stable\SSP\obj\Debug\SSP.Security.resources
+G:\SSP 12.11 non stable\SSP\obj\Debug\SSP.csproj.GenerateResource.Cache
+C:\Users\ZerXPro\Desktop\SSP 13.11 stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 13.11 stable\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 13.11 stable\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 13.11 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 13.11 stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 13.11 stable\SSP\obj\Debug\SSP.LockScreen.resources
+C:\Users\ZerXPro\Desktop\SSP 13.11 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 13.11 stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 13.11 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 13.11 stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 13.11 stable\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 13.11 stable\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 14.11 stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 14.11 stable\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 14.11 stable\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 14.11 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 14.11 stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 14.11 stable\SSP\obj\Debug\SSP.LockScreen.resources
+C:\Users\ZerXPro\Desktop\SSP 14.11 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 14.11 stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 14.11 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 14.11 stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 14.11 stable\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 14.11 stable\SSP\obj\Debug\SSP.pdb
+G:\SSP 14.11 stable\SSP\bin\Debug\SSP.exe.config
+G:\SSP 14.11 stable\SSP\obj\Debug\SSP.exe
+G:\SSP 14.11 stable\SSP\obj\Debug\SSP.pdb
+G:\SSP 14.11 stable\SSP\bin\Debug\SSP.exe
+G:\SSP 14.11 stable\SSP\bin\Debug\SSP.pdb
+G:\SSP 14.11 stable\SSP\obj\Debug\SSP.csprojResolveAssemblyReference.cache
+G:\SSP 14.11 stable\SSP\obj\Debug\SSP.Form1.resources
+G:\SSP 14.11 stable\SSP\obj\Debug\SSP.LockScreen.resources
+G:\SSP 14.11 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+G:\SSP 14.11 stable\SSP\obj\Debug\SSP.Security.resources
+G:\SSP 14.11 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.Cache
+D:\SSP 14.11 stable\SSP\bin\Debug\SSP.exe.config
+D:\SSP 14.11 stable\SSP\obj\Debug\SSP.exe
+D:\SSP 14.11 stable\SSP\obj\Debug\SSP.pdb
+D:\SSP 14.11 stable\SSP\bin\Debug\SSP.exe
+D:\SSP 14.11 stable\SSP\bin\Debug\SSP.pdb
+D:\SSP 14.11 stable\SSP\obj\Debug\SSP.csprojResolveAssemblyReference.cache
+D:\SSP 14.11 stable\SSP\obj\Debug\SSP.Form1.resources
+D:\SSP 14.11 stable\SSP\obj\Debug\SSP.LockScreen.resources
+D:\SSP 14.11 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+D:\SSP 14.11 stable\SSP\obj\Debug\SSP.Security.resources
+D:\SSP 14.11 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.Cache
+C:\Users\Дария\Desktop\SSP 15.11 stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\Дария\Desktop\SSP 15.11 stable\SSP\bin\Debug\SSP.exe
+C:\Users\Дария\Desktop\SSP 15.11 stable\SSP\bin\Debug\SSP.pdb
+C:\Users\Дария\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\Дария\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\Дария\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.LockScreen.resources
+C:\Users\Дария\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\Дария\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\Дария\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\Дария\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.exe
+C:\Users\Дария\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.pdb
+M:\SSP 15.11 stable\SSP\bin\Debug\SSP.exe.config
+M:\SSP 15.11 stable\SSP\bin\Debug\SSP.exe
+M:\SSP 15.11 stable\SSP\bin\Debug\SSP.pdb
+M:\SSP 15.11 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+M:\SSP 15.11 stable\SSP\obj\Debug\SSP.Form1.resources
+M:\SSP 15.11 stable\SSP\obj\Debug\SSP.LockScreen.resources
+M:\SSP 15.11 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+M:\SSP 15.11 stable\SSP\obj\Debug\SSP.Security.resources
+M:\SSP 15.11 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+M:\SSP 15.11 stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+M:\SSP 15.11 stable\SSP\obj\Debug\SSP.exe
+M:\SSP 15.11 stable\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 15.11 stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 15.11 stable\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 15.11 stable\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.LockScreen.resources
+C:\Users\ZerXPro\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 15.11 stable\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 16.11 stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 16.11 stable\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 16.11 stable\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 16.11 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 16.11 stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 16.11 stable\SSP\obj\Debug\SSP.LockScreen.resources
+C:\Users\ZerXPro\Desktop\SSP 16.11 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 16.11 stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 16.11 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 16.11 stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 16.11 stable\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 16.11 stable\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 24.11 stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 24.11 stable\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 24.11 stable\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 24.11 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 24.11 stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 24.11 stable\SSP\obj\Debug\SSP.LockScreen.resources
+C:\Users\ZerXPro\Desktop\SSP 24.11 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 24.11 stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 24.11 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 24.11 stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 24.11 stable\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 24.11 stable\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 28.11 stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 28.11 stable\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 28.11 stable\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 28.11 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 28.11 stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 28.11 stable\SSP\obj\Debug\SSP.LockScreen.resources
+C:\Users\ZerXPro\Desktop\SSP 28.11 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 28.11 stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 28.11 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 28.11 stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 28.11 stable\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 28.11 stable\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 03.01 stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 03.01 stable\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 03.01 stable\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 03.01 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 03.01 stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 03.01 stable\SSP\obj\Debug\SSP.LockScreen.resources
+C:\Users\ZerXPro\Desktop\SSP 03.01 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 03.01 stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 03.01 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 03.01 stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 03.01 stable\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 03.01 stable\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 21.01 stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 21.01 stable\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 21.01 stable\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 21.01 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 21.01 stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 21.01 stable\SSP\obj\Debug\SSP.LockScreen.resources
+C:\Users\ZerXPro\Desktop\SSP 21.01 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 21.01 stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 21.01 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 21.01 stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 21.01 stable\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 21.01 stable\SSP\obj\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 25.01 stable\SSP\bin\Debug\SSP.exe.config
+C:\Users\ZerXPro\Desktop\SSP 25.01 stable\SSP\bin\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 25.01 stable\SSP\bin\Debug\SSP.pdb
+C:\Users\ZerXPro\Desktop\SSP 25.01 stable\SSP\obj\Debug\SSP.csprojAssemblyReference.cache
+C:\Users\ZerXPro\Desktop\SSP 25.01 stable\SSP\obj\Debug\SSP.Form1.resources
+C:\Users\ZerXPro\Desktop\SSP 25.01 stable\SSP\obj\Debug\SSP.LockScreen.resources
+C:\Users\ZerXPro\Desktop\SSP 25.01 stable\SSP\obj\Debug\SSP.Properties.Resources.resources
+C:\Users\ZerXPro\Desktop\SSP 25.01 stable\SSP\obj\Debug\SSP.Security.resources
+C:\Users\ZerXPro\Desktop\SSP 25.01 stable\SSP\obj\Debug\SSP.csproj.GenerateResource.cache
+C:\Users\ZerXPro\Desktop\SSP 25.01 stable\SSP\obj\Debug\SSP.csproj.CoreCompileInputs.cache
+C:\Users\ZerXPro\Desktop\SSP 25.01 stable\SSP\obj\Debug\SSP.exe
+C:\Users\ZerXPro\Desktop\SSP 25.01 stable\SSP\obj\Debug\SSP.pdb
