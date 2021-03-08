@@ -1,3 +1,0 @@
-For iCounter = 1 to 10 Step 1
-            WScript.Echo “Loop Number” & iCounter
-Next
